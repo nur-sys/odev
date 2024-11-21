@@ -1,0 +1,9 @@
+Ürün Adı: Elma, Tarih: 2024-11-19 13:45:12.345678
+Ürün Adı: Armut, Tarih: 2024-11-19 13:45:12.345789
+Ürün Adı: Kiraz, Tarih: 2024-11-19 13:45:12.345890
+Ürün Adı: Portakal, Tarih: 2024-11-19 13:45:12.345901
+Ürün: Elma, Fiyat: 4.5, Adet: 10, Toplam: 45.0
+Ürün: Armut, Fiyat: 3.75, Adet: 20, Toplam: 75.0
+Ürün: Kiraz, Fiyat: 12.0, Adet: 5, Toplam: 60.0
+Ürün: Portakal, Fiyat: 6.25, Adet: 8, Toplam: 50.0
+Toplam Bakiye (KDV dahil): 270.0 TL
